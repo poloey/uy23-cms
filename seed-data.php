@@ -72,6 +72,7 @@ foreach (range(1, 200) as $i) {
   ]);
 }
 
-
+echo "table created successfully \n";
+echo "data seeding successfully";
 
 

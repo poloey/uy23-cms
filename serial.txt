@@ -1,5 +1,5 @@
-uy23-cms.bbvsvsvsv.com  
-uy23-contact.bbvsvsvsv.com  
-uy23-snippet.bbvsvsvsv.com  
-uy23-inventory.bbvsvsvsv.com  
-uy23-customer.bbvsvsvsv.com 
+http://uy23-cms.bbvsvsvsv.com  
+http://uy23-contact.bbvsvsvsv.com  
+http://uy23-snippet.bbvsvsvsv.com  
+http://uy23-inventory.bbvsvsvsv.com  
+http://uy23-customer.bbvsvsvsv.com 

@@ -1,5 +1,14 @@
 # Feb 13, 2018 - login registration, authentication, dashboard post read and delete     
 
+## dummy user login credentials     
+
+* email: `nur@gmail.com` password: `secret`
+* email: `mahibur@gmail.com` password: `secret`
+* email: `farhad@gmail.com` password: `secret`
+* email: `majedul@gmail.com` password: `secret`
+* email: `tahmina@gmail.com` password: `secret`
+
+
 ### email validation using regular expression 
 
 ~~~php
